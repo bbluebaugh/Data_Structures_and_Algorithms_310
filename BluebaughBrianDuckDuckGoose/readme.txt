@@ -1,0 +1,1 @@
+This is a program that simulates a game of duck duck goose it reads in a file and after running it prints the solution.The program should be runnable as is.
